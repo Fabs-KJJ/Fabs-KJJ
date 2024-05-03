@@ -1,6 +1,8 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Fabian!
+<h2> Hi, I'm Fabian!<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70"></h2>
+<img align='right' src="hhttps://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
+<p><em>Full-stack web developer ready for adventure</em></p>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Software Dev at the Institute Of Software Development, Nairobi<br/>
 🎨 Made a project about portfolio on [My Portfolio](http://fabskjj.atwebpages.com/)<br/>
